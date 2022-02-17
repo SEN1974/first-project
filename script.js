@@ -1,2 +1,1 @@
-console.log(1+3);
-console.log('Hello !');
+console.log(40 + 2);
